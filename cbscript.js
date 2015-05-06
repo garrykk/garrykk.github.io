@@ -1,7 +1,5 @@
 (function() {
 
-document.write('sdfdfgertesrfgsdf');
-
 // Localize jQuery variable
 var jQuery;
 
@@ -43,23 +41,23 @@ function scriptLoadHandler() {
 function main() { 
     jQuery(document).ready(function($) { 
 
-#    	var show = 0;
-#        $.ajax({
-#		  url: 'http://vps-1071382.vpshome.pro:24151/?btncheck=' + call_code,
-#		  async: false,
-#		  dataType: 'json',
-#		  success: function (json) {
-#		   show = json.show;
-#		  }
-#		});
-#       if(show == 0) return false;
+    	var show = 0;
+        $.ajax({
+		  url: 'http://vps-1071382.vpshome.pro:24151/?btncheck=' + call_code,
+		  async: false,
+		  dataType: 'json',
+		  success: function (json) {
+		   show = json.show;
+		  }
+		});
+        if(show == 0) return false;
 
 
         /******* Load CSS *******/
         var css_link = $("<link>", { 
             rel: "stylesheet", 
             type: "text/css", 
-            href: "https://garrykk.github.io/jq.fan.css"
+            href: "http://vps-1071382.vpshome.pro:24151/?getf=jq.fan.css"
         });
         css_link.appendTo('head');    
 
