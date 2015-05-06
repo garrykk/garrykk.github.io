@@ -59,7 +59,7 @@ function main() {
         var css_link = $("<link>", { 
             rel: "stylesheet", 
             type: "text/css", 
-            href: "jq.fan.css"
+            href: "https://garrykk.github.io/jq.fan.css"
         });
         css_link.appendTo('head');    
 
