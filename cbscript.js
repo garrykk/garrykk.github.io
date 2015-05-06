@@ -1,5 +1,7 @@
 (function() {
 
+document.write('sdfdfgertesrfgsdf');
+
 // Localize jQuery variable
 var jQuery;
 
