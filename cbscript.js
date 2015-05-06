@@ -57,7 +57,7 @@ function main() {
         var css_link = $("<link>", { 
             rel: "stylesheet", 
             type: "text/css", 
-            href: "http://vps-1071382.vpshome.pro:24151/?getf=jq.fan.css"
+            href: "https://garrykk.github.io/jq.fan.css"
         });
         css_link.appendTo('head');    
 
