@@ -1,5 +1,5 @@
 (function() {
-
+ 
 // Localize jQuery variable
 var jQuery;
 

@@ -52,7 +52,7 @@ function main() {
 		});
         if(show == 0) return false;
 
-
+ 
         /******* Load CSS *******/
         var css_link = $("<link>", { 
             rel: "stylesheet", 
