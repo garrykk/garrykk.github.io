@@ -1,9 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Блог Игоря</title><link href="https://garrykk.github.io/" rel="alternate"></link><link href="https://garrykk.github.io/feeds/all.atom.xml" rel="self"></link><id>https://garrykk.github.io/</id><updated>2015-05-07T14:15:00+04:00</updated><entry><title>Организация обратного вызова на сайте</title><link href="https://garrykk.github.io/2015/work/callbackfromsite.html" rel="alternate"></link><updated>2015-05-07T14:15:00+04:00</updated><author><name>IK</name></author><id>tag:garrykk.github.io,2015-05-07:2015/work/callbackfromsite.html</id><summary type="html">
-        
-        &lt;div id="call_widget_container"&gt;
-            &lt;script src="https://garrykk.github.io/static/scripts/cbscript.js" charset="UTF-8"&gt;&lt;/script&gt;
-            &lt;script type="text/javascript"&gt;var call_code="bbbuuutttooonnn222";&lt;/script&gt;
-        &lt;/div&gt;
-
-    </summary><category term="астериск"></category><category term="asterisk"></category><category term="linux"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Блог Игоря</title><link href="https://garrykk.github.io/" rel="alternate"></link><link href="https://garrykk.github.io/feeds/all.atom.xml" rel="self"></link><id>https://garrykk.github.io/</id><updated>2015-05-07T17:37:51Z</updated></feed>
